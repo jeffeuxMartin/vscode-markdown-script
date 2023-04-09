@@ -1,6 +1,6 @@
 {
-  "ext.cmd.run.title": "运行脚本",
-  "ext.cmd.copy.title": "复制脚本",
-  "ext.btn.click2run": "点击运行",
-  "ext.btn.click2copy": "点击复制"
+  "ext.cmd.run.title": "執行指令碼",
+  "ext.cmd.copy.title": "複製指令碼",
+  "ext.btn.click2run": "點選執行",
+  "ext.btn.click2copy": "點選複製"
 }
